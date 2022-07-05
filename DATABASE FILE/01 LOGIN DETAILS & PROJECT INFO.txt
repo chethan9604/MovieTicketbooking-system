@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!***
-
 **Database Name: dbtheatre**
 
-**Developed by Gokul Vasudeva**
+**Developed by Chethan sai kumar**
 
 **Recommended Python Version 3.x**
 
